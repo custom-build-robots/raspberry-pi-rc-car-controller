@@ -5,7 +5,7 @@ The picture below shows my RC car I build out of electronic components I already
 
 ![Raspberry Pi robots](https://custom-build-robots.com/wp-content/uploads/2018/02/Autonom_fahrendes_Raspberry_Pi_KI_Roboter_Auto_model-300x200.jpg)
 
-The ESC is a very cheap one from Amazon.
+The ESC is a very cheap one from Amazon but it works very well in my rc car.
 
 ![Raspberry Pi robots](https://custom-build-robots.com/wp-content/uploads/2018/02/Autonom_fahrendes_Raspberry_Pi_KI_Roboter_Auto_ESC_1-300x200.jpg)
 
