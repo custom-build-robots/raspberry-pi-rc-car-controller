@@ -1,5 +1,6 @@
 # Raspberry Pi - RC car controller
 The program esc.py enables you to control a classic RC car with a Raspberry Pi and a PCA9685 servo controller.
+To read more about my project just visit my blog for more details and pictures: https://custom-build-robots.com/raspberry-pi-roboter/autonom-fahrendes-raspberry-pi-ki-roboter-auto-software/9777
 
 The picture below shows my RC car I build out of electronic components I already had or which I bought in China.
 
